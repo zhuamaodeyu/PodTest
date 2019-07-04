@@ -14,4 +14,11 @@ source 'https://github.com/CocoaPods/Specs.git'
 
 pod 'SnapKit'
 pod 'TKUIKitModule'
+pod 'HandyJSON'
+pod 'RxSwift'
+pod 'Alamofire'
+pod 'Moya'
+pod 'SwiftyJSON'
+pod 'Kingfisher'
+pod 'KeychainAccess'
 end
